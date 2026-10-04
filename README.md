@@ -9,6 +9,14 @@
 **🌐 Live Production App:** [https://geoshield-flood.vercel.app](https://geoshield-flood.vercel.app)  
 *(Mirror / Direct Alias: [https://geoshield-gis.vercel.app](https://geoshield-gis.vercel.app) — Zero login, serverless edge)*
 
+## 🎥 Project Demo
+
+<a href="https://youtu.be/tCRW7HJIeZA">
+  <img src="docs/assets/youtube_thumbnail.jpg" alt="GeoShield AI — SAR Flood Intelligence Demo" width="900">
+</a>
+
+**▶️ [Watch the GeoShield AI demo on YouTube](https://youtu.be/tCRW7HJIeZA)**
+
 **GEOIMPathon 1.0 (Problem Statement 4.4: Disaster Exposure Mapping)**  
 *Case Study: Southern Tamil Nadu Extreme Monsoon Deluge (Tirunelveli & Thamirabarani Basin, December 17–18, 2023)*
 
